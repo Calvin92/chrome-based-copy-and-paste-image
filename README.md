@@ -3,4 +3,4 @@ wth Chrome, you can copy and paste image to contenteditable div, then  you can c
 
 Demo
 -----
-# [demo](file:///Users/ruanjiawei/workingspace/chrome-based-copy-and-paste-image/index.html)
+[demo](http://www.ruanjiawei.com/chrome-based-copy-and-paste-image/index.html)
