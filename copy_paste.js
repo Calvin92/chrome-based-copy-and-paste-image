@@ -1,3 +1,8 @@
+/**
+ * author: calvin1992.js@gmail.com
+ * date: 05/05/2016
+ */
+
 var ele = document.querySelector('#container');
 ele.onpaste = function(e) {
 
