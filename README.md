@@ -1,5 +1,5 @@
 # chrome-based-copy-and-paste-image
-With Chrome, you can copy and paste image to contenteditable div, then  you can compress the image and post the compressed image's base64 data to server
+With Chrome, you can copy and paste image to contenteditable div, then  you can compress the image and post the compressed image's base64 data to the server
 
 Demo
 -----
